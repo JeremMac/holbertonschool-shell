@@ -1,0 +1,2 @@
+#!/bin/bash
+ln /bin/ls /root/holbertonschool-shell/basics/_ls_
