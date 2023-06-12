@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rx directory
+chmod ugo+x permissions
