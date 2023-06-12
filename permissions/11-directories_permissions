@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r /root 
+chmod -R ugo+X .
