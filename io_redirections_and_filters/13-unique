@@ -1,0 +1,2 @@
+#!/bin/bash
+sort < wc | uniqu file_name
