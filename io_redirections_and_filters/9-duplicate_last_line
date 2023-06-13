@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n | tail +1 head -1  iacta
+tail -n 1 > cp -n  iacta
