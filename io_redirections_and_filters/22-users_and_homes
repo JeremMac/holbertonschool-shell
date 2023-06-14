@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | sort -t: -k1,1 /etc/passwd
+grep | sort -t: -k1,1 /etc/passwd
