@@ -1,2 +1,2 @@
 #!/bin/bash
-rm | grep c input -i 
+tr -d c input 	 
