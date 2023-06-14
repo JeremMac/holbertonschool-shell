@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'c'-i | tr -d input 	 
+tr -d | grep input 'c'-i  	 
