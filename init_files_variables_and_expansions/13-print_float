@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%2.f\n" $BIN
+printf "%.2f \n" $BIN
